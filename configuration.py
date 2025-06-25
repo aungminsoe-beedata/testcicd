@@ -16,12 +16,12 @@ import locale
 import os
 import sys
 from typing import Any, Dict, Iterable, List, NewType, Optional, Tuple
-
+from aung mins eo
 from pip._internal.exceptions import (
     ConfigurationError,
     ConfigurationFileCouldNotBeLoaded,
 )
-from pip._internal.utils import appdirs
+
 from pip._internal.utils.compat import WINDOWS
 from pip._internal.utils.logging import getLogger
 from pip._internal.utils.misc import ensure_dir, enum
